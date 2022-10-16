@@ -1,3 +1,3 @@
 # Leon-Templete
 HTML &amp; CSS First Templete
-[Review Page](https://hagaressmat.github.io/Leon-Templete.github.io/).
+[Review Page](https://hagaressmat.github.io/Leon-Templete/).
